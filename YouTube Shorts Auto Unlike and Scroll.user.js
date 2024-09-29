@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         YouTube Shorts Auto Unlike and Scroll
 // @namespace    http://tampermonkey.net/
-// @version      1.8
+// @version      1.9
 // @description  Automatically unlikes YouTube Shorts videos and scrolls to the next one.
 // @match        https://www.youtube.com/*
 // @grant        none
 // @run-at       document-start
 // @author       Abayus/Dazirar
+// @updateURL    https://github.com/Dazirar/YouTube-Shorts-Auto-Unlike-and-Scroll/raw/refs/heads/main/YouTube%20Shorts%20Auto%20Unlike%20and%20Scroll.user.js
+// @downloadURL  https://github.com/Dazirar/YouTube-Shorts-Auto-Unlike-and-Scroll/raw/refs/heads/main/YouTube%20Shorts%20Auto%20Unlike%20and%20Scroll.user.js
 // ==/UserScript==
 
 // To use the script navigate to liked videos from https://www.youtube.com/playlist?list=LL , click one short and then the script will do the rest
